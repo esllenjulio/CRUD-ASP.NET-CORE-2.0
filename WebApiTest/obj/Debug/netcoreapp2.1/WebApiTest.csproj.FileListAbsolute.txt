@@ -1,0 +1,14 @@
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.deps.json
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.runtimeconfig.json
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.runtimeconfig.dev.json
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.dll
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\bin\Debug\netcoreapp2.1\WebApiTest.pdb
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.csprojAssemblyReference.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.RazorAssemblyInfo.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.RazorAssemblyInfo.cs
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.AssemblyInfoInputs.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.AssemblyInfo.cs
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.RazorTargetAssemblyInfo.cache
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.dll
+C:\Users\Esllen Julio\Documents\Projetos aula\WebApiTest\WebApiTest\obj\Debug\netcoreapp2.1\WebApiTest.pdb

@@ -1,0 +1,16 @@
+CREATE TABLE `rest_api_test`.`person` (
+  `Id` INT NOT NULL AUTO_INCREMENT,
+  `Nome` VARCHAR(45) NULL,
+  `Sobrenome` VARCHAR(45) NULL,
+  `Endereco` VARCHAR(45) NULL,
+  `Genero` VARCHAR(45) NULL,
+  PRIMARY KEY (`Id`));
+
+
+
+CREATE TABLE `rest_api_test`.`book` (
+  `Id` INT NOT NULL AUTO_INCREMENT,
+  `Nome` VARCHAR(45) NULL,
+  `Valor` VARCHAR(45) NULL,
+  PRIMARY KEY (`Id`));
+
